@@ -44,8 +44,4 @@ A basic HTTP server implementation in Python using TCP protocol for Socket commu
 
 ## Customization
 
-- You can customize the behavior of the server by modifying the `server.py` file. For example, you can change the directory from which files are served, add support for other HTTP methods, or implement additional functionality.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- You can customize the behavior of the server by modifying the `main.py` file. For example, you can add support for other HTTP methods, or implement additional functionality.
