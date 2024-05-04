@@ -4,7 +4,6 @@ from header import get_header
 def handle_request(client_socket: socket.socket,address, fdir: str):
     """
         A basic HTTP server request handler
-    
     Args:
         client_socket (socket): represents a socket connection to a client
     """
