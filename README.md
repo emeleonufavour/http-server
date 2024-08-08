@@ -1,6 +1,6 @@
 # HTTP Server
 
-A basic HTTP server implementation in Python using TCP protocol for Socket communication. This server is able to handle GET and POST requests
+A HTTP server implementation in Python using TCP protocol for Socket communication. This server is able to handle GET and POST requests
 
 ## Requirements
 
